@@ -17,7 +17,7 @@
                     <Title> heading</Title>
                 </h2>
                 <h5>Tittle description, dec 5, 2020</h5>
-                <div class="fakeimg" style="height: 200px;">image</div>
+                <div class="fakeimg" style="height: 200px;">Image</div>
                 <p>some text</p>
             </div>
 
