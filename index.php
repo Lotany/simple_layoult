@@ -17,13 +17,11 @@
         <div class="leftcolumn">
             <div class="card">
                 <div class="card1">
-                    <h2> heading 1</h2>
+                       <h2> heading 1</h2>
                     <img src="images/image_3.png" class="fakeimg" style="height: 200px;">
                     <h5>Tittle description, dec 5, 2020</h5>
                 </div>
-                <div class="card2">
-                    <p>Lorem ipsum dolor, sit amet consectetur adipisicing elit. Praesentium rerum minus sapiente libero illo quis, quibusdam veritatis. Incidunt temporibus voluptatem obcaecati laboriosam ipsum similique facere vero saepe quam, unde dolorem!</p>
-                </div>
+                <p>Lorem ipsum dolor sit, amet consectetur adipisicing elit. Dicta quod aspernatur ipsa deserunt esse libero iure. Quibusdam, molestias consectetur omnis rem eaque nostrum cum aliquam harum, ducimus alias tenetur asperiores?</p>
             </div>
             <div class="card">
                 <h2>heading 2</h2>
