@@ -16,10 +16,14 @@
         <!--left column -->
         <div class="leftcolumn">
             <div class="card">
-                <h2> heading 1</h2>
-                <h5>Tittle description, dec 5, 2020</h5>
-                <img src="images/image_3.png" class="fakeimg" style="height: 200px;">
-                <p>some text</p>
+                <div class="card1">
+                    <h2> heading 1</h2>
+                    <img src="images/image_3.png" class="fakeimg" style="height: 200px;">
+                    <h5>Tittle description, dec 5, 2020</h5>
+                </div>
+                <div class="card2">
+                    <p>Lorem ipsum dolor, sit amet consectetur adipisicing elit. Praesentium rerum minus sapiente libero illo quis, quibusdam veritatis. Incidunt temporibus voluptatem obcaecati laboriosam ipsum similique facere vero saepe quam, unde dolorem!</p>
+                </div>
             </div>
             <div class="card">
                 <h2>heading 2</h2>
