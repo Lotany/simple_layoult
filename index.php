@@ -18,7 +18,7 @@
                     <Title> heading</Title>
                 </h2>
                 <h5>Tittle description, dec 5, 2020</h5>
-                <div class="fakeimg" style="height: 200px;">Image</div>
+                <img src="images/image_3.png" class="fakeimg" style="height: 200px;">
                 <p>some text</p>
             </div>
 
@@ -27,7 +27,7 @@
                     <Title> heading 2</Title>
                 </h2>
                 <h5>Tittle description, dec 5, 2020</h5>
-                <div class="fakeimg" style="height: 200px;">image</div>
+                <img src="images/image_3.png" class="fakeimg" style="height: 200px;">
                 <p>some text</p>
             </div>
         </div>
@@ -35,14 +35,16 @@
         <div class="rightcolumn">
             <div class="card">
                 <h2>About me</h2>
-                <div class="fakeimg" style="height: 100px;">Image</div>
+                <img src="images/banner.jpg" class="fakeimg" style="height: 200px;">
                 <p>Some text</p>
             </div>
             <div class="card">
                 <h3>Popular Posts</h3>
-                <div class="fakeimg"><br>Image</div>
-                <div class="fakeimg"><br>Image</div>
-                <div class="fakeimg"><br>Image</div>
+                <img src="images/image_3.png" class="fakeimg" style="height: 200px;">
+                <br>
+                <img src="images/image_3.png" class="fakeimg" style="height: 200px;">
+                <br>
+                <img src="images/image_3.png" class="fakeimg" style="height: 200px;">
             </div>
 
             <div class="card">
