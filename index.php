@@ -18,7 +18,7 @@
             <div class="card">
                 <div class="card1">
                        <h2> heading 1</h2>
-                    <img src="images/image_3.png" class="fakeimg" style="height: 200px;">
+                    <img src="images/image_3.png" class="fakeimg1" style="height: 200px;">
                     <h5>Tittle description, dec 5, 2020</h5>
                 </div>
                 <p>Lorem ipsum dolor sit, amet consectetur adipisicing elit. Dicta quod aspernatur ipsa deserunt esse libero iure. Quibusdam, molestias consectetur omnis rem eaque nostrum cum aliquam harum, ducimus alias tenetur asperiores?</p>
@@ -26,7 +26,7 @@
             <div class="card">
                 <h2>heading 2</h2>
                 <h5>Tittle description, dec 5, 2020</h5>
-                <img src="images/image_3.png" class="fakeimg" style="height: 200px;">
+                <img src="images/image_3.png" class="fakeimg1" style="height: 200px;">
                 <p>some text</p>
             </div>
         </div>
