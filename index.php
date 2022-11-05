@@ -16,7 +16,7 @@
         <!--left column -->
         <div class="leftcolumn">
             <div class="card">
-                <h2> heading</h2>
+                <h2> heading 1</h2>
                 <h5>Tittle description, dec 5, 2020</h5>
                 <img src="images/image_3.png" class="fakeimg" style="height: 200px;">
                 <p>some text</p>
@@ -32,13 +32,13 @@
         <!-- middle column-->
         <div class="middlecolumn">
             <div class="card">
-                <h2> heading</h2>
+                <h2> heading 3</h2>
                 <h5>Tittle description, dec 5, 2020</h5>
                 <img src="images/image_3.png" class="fakeimg" style="height: 200px;">
                 <p>some text</p>
             </div>
             <div class="card">
-                <h2>heading 2</h2>
+                <h2>heading 4</h2>
                 <h5>Tittle description, dec 5, 2020</h5>
                 <img src="images/image_3.png" class="fakeimg" style="height: 200px;">
                 <p>some text</p>
@@ -67,6 +67,8 @@
                 <p>Some text</p>
             </div>
         </div>
+
+
     </div>
 
     <div class="footer">
